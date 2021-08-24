@@ -51,3 +51,6 @@ The best answer for this testcase:
 
 ### Output:
 It outputs the minimal cost and the cycle itself. The code for visualing the answer is present in the code.
+
+#### Postlude:
+The program reads the input from a file; The file `bayg.tsp`, contains a sample input, consisting of 29 vertices; I've downloaded this sample from [Heidelberg University' Site](http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/). The optimal answer for this testcase is `9074`.
