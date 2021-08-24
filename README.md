@@ -27,7 +27,7 @@ Here is another example. The left figure is the starting positioning of the clus
   <img src="https://user-images.githubusercontent.com/12760574/130633754-f4e01538-9a03-4d07-a145-731fb25aca3b.png" width="250" />
 </p>
 
-Then for every cluster, it finds the best path connecting all the vertices by brute force: Checking all the permutations possible. Then connects these paths together. We can use Brute force here too; Although I didn't; I've implemented this part with greedy.
+Then for every cluster, it finds the best path connecting all the vertices by brute force: Checking all the permutations possible. Then connects these paths together. We can use Brute force here too; Although I didn't; I've implemented this part with greedy. Also, for finding the best path in each cluster, we can also use Genetic Algorithm, which I've the code for that too [here](https://github.com/ShayanGilmour/TSP-Genetic-Algorithm). But for `29` vertices, and `5` and more clusters, brute force will get the job done!
 
 
 <p float="left">
